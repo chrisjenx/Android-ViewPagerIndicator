@@ -17,4 +17,7 @@ target
 release.properties
 pom.xml.*
 
-/.DS_Store
+#Command line
+local.properties
+build.xml
+proguard-project.txt
